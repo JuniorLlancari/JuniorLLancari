@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, I'm Junior Llancari ✌....
 
-<!--
-**JuniorLlancari/JuniorLLancari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a graduate of systems engineering🎓, I perform as a backend developer.💻
 
-Here are some ideas to get you started:
+- 😀  I'm still preparing and learning to improve my skills in my job.
+- 🌱  I'm currently learning about containers and microservices.
+- 🚗  I like to travel very much.
+- 🙃  Hobbies: I love listening to music, watching science fiction movies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+My current technology stack:
+- .Net Framework, .Net Core y .Net 🟪
+- C# - Javascript 🟪🟨
+- Docker y Kubernets 🐳
+- Servicios de AWS ⚡
+- SqlServer y Mysql 😃  
+- Habilidades intermedias en HTML - CSS Y JS 🎨
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorllancari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
