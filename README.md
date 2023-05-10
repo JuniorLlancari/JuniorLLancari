@@ -13,10 +13,8 @@ My current technology stack:
 - .Net Framework, .Net Core y .Net 🟪
 - C# - Javascript 🟪🟨
 - Docker y Kubernets 🐳
-- Servicios de AWS ⚡
-- SqlServer y Mysql 😃  
-- Habilidades intermedias en HTML - CSS Y JS 🎨
-
-
+- AWS Services ⚡
+- SqlServer and Mysql 😃  
+- Html, Css and Js  🎨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorllancari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
