@@ -7,10 +7,10 @@ I am Systems Engineer, performance as backend developer.💻
 - 🚗 I really enjoy traveling and exploring new places.
 - 🙃 Hobbies: I love listening to music and watching science fiction movies.
 
-
+##
 ### 💻 My Current Technology Stack
 
-🟪 **.NET Framework, .NET Core, and .NET**  
+- 🟪 **.NET Framework, .NET Core, and .NET**  
 - 🟪🟨 **C# and JavaScript**  
 - 🐳 **Docker**  
 - ⚙️ **DevOps**  
