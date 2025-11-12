@@ -2,15 +2,15 @@
 
 I am Systems Engineer, performance as backend developer.💻
 
-😀 I'm still preparing and continuously learning to improve my professional skills.
-🌱 I have 3 years of experience and I'm currently learning about containers and microservices.
-🚗 I really enjoy traveling and exploring new places.
-🙃 Hobbies: I love listening to music and watching science fiction movies.
+- 😀 I'm still preparing and continuously learning to improve my professional skills.
+- 🌱 I have 3 years of experience and I'm currently learning about containers and microservices.
+- 🚗 I really enjoy traveling and exploring new places.
+- 🙃 Hobbies: I love listening to music and watching science fiction movies.
 
 
 ### 💻 My Current Technology Stack
 
-- 🟪 **.NET Framework, .NET Core, and .NET**  
+🟪 **.NET Framework, .NET Core, and .NET**  
 - 🟪🟨 **C# and JavaScript**  
 - 🐳 **Docker**  
 - ⚙️ **DevOps**  
