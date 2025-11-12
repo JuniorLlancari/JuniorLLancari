@@ -7,16 +7,18 @@ I am Systems Engineer, performance as backend developer.💻
 🚗 I really enjoy traveling and exploring new places.
 🙃 Hobbies: I love listening to music and watching science fiction movies.
 
-##
 
-My current technology stack:
-- .Net Framework, .Net Core y .Net 🟪
-- C#  &  Javascript 🟪🟨
-- Azure  &  Azure DevOps ☁️
-- Terraform 🧱 
-- Docker 🐳
-- SqlServer 😃  
-- Html, Css and Js  🎨
+### 💻 My Current Technology Stack
+
+- 🟪 **.NET Framework, .NET Core, and .NET**  
+- 🟪🟨 **C# and JavaScript**  
+- 🐳 **Docker**  
+- ⚙️ **DevOps**  
+- 🧱 **Terraform**  
+- ☁️ **Azure DevOps**  
+- ⚡ **AWS Services**  
+- 😃 **SQL Server**  
+- 🎨 **HTML, CSS, and JavaScript**
 
 
 
